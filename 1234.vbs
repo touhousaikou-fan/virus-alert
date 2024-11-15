@@ -1,0 +1,1 @@
+msgbox "Your computer has been infected with a virus. We will force a reboot to delete the affected files.",2+0,"windowsdefender.exe"
